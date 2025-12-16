@@ -127,5 +127,3 @@ dotnet run
 * Developed by: Yashika
 * Date: December 2025
 * Purpose: Internship assignment submission for ERP Testing System
-
-```
